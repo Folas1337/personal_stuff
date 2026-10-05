@@ -16,7 +16,7 @@ All kinds of things like URLs to tools, YouTube channels and similar which I dee
 ### Music
 #### Atmospheric
 - https://www.youtube.com/@ScifiEscapes
-- https://www.youtube.com/channel/UCfzTGKHeCCOo00T_U_V1x7g
+- https://www.youtube.com/@athenaiv
 #### Classical
 - https://www.youtube.com/@HALIDONMUSIC
 #### Techno
