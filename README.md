@@ -12,3 +12,12 @@ All kinds of things like URLs to tools, YouTube channels and similar which I dee
 - https://www.youtube.com/@Fireship (Tech News)
 - https://www.youtube.com/@InternetOfBugs (Currently focused on AI/vibe coding and the likes)
 - https://www.youtube.com/@Computerphile ("Videos about computers & computer stuff")
+
+### Music
+#### Atmospheric
+- https://www.youtube.com/@ScifiEscapes
+- https://www.youtube.com/channel/UCfzTGKHeCCOo00T_U_V1x7g
+#### Classical
+- https://www.youtube.com/@HALIDONMUSIC
+#### Techno
+- https://www.youtube.com/@GUZOVADJ
