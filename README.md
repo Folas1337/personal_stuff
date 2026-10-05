@@ -1,2 +1,2 @@
-# internet_collections
-I'm going to have different collections of cool tools/websites/channels on here
+# Personal Stuff
+All kinds of things like URLs to tools, YouTube channels and similar which I deem worthy of saving :smile:
