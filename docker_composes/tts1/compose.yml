@@ -1,0 +1,17 @@
+services:
+  tts1:
+    image: ghcr.io/remsky/kokoro-fastapi-rocm:latest
+    container_name: tts1
+    restart: unless-stopped
+    ports:
+      - "8880:8880"
+    environment:
+      USE_GPU: "true"
+    devices:
+      - /dev/kfd
+      - /dev/dri
+    # Helps some AMD setups access the render nodes
+    group_add:
+      - "991" # Find out with `getent group render`
+      - "44" # Find out with `getent group video`
+# Those last 2 lines were actually required on my AMD GPU so it would use my AMD GPU properly
